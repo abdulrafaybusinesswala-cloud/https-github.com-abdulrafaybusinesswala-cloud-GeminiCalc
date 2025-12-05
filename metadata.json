@@ -1,0 +1,5 @@
+{
+  "name": "GeminiCalc",
+  "description": "A robust standard calculator with an integrated AI math assistant for solving natural language problems.",
+  "requestFramePermissions": []
+}
